@@ -1,2 +1,0 @@
-E:\MyEngine\MyEngine\Engine\Debug\Engine.exe
-E:\MyEngine\MyEngine\Engine\Debug\Engine.pdb
